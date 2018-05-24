@@ -1,2 +1,3 @@
 # Deadlock-Educational-Tool
-Describes what deadlock means and explains Banker's Algorithm
+
+This tool is built using JAVA programming language. 
